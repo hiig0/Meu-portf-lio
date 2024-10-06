@@ -120,7 +120,7 @@ table th, table td {
 }
 
 .card img {
-    width: 100%;
+    width: 150px;
     height: 150px;
     object-fit: cover;
     border-bottom: 1px solid #ddd;
@@ -189,6 +189,7 @@ form input, form textarea {
     margin-bottom: 20px;
     border: none;
     border-radius: 5px;
+    resize: none;
 
 }
 
@@ -215,3 +216,7 @@ form button:hover {
 nav ul li a:hover, form button:hover {
     transition: background-color 0.3s ease;
 }
+
+#mapa img { width: 700px;
+height: 300px; 
+  }
