@@ -57,3 +57,8 @@ Navegação suave por seções
 Animações de fade-in
 
 Font Awesome (via all.min.css) para ícones
+
+---
+
+## 📄 Licença
+Este projeto está licenciado sob a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0). Veja o arquivo ![LICENSE](LICENSE.md) para detalhes.
