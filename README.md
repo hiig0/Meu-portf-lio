@@ -18,8 +18,9 @@ portfolio/
 └── README.md
 ```
 ## 🖼️ Capturas de tela
-
+#Home
 ![Home](portifolio_arquivos/.github/screenshots/captura-1.png)  
+#Seção de Projetos
 ![Seção de Projetos](portifolio_arquivos/.github/screenshots/captura-2.png)
 
 ---
