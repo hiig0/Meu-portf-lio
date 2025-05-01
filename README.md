@@ -3,7 +3,7 @@
 Este é o meu portfólio pessoal em formato de landing page, desenvolvido com HTML, CSS e JavaScript. O design segue um tema escuro e minimalista, com animações suaves e navegação por seção.
 
 ## 📂 Estrutura de pastas
-
+```bash
 portfolio/
 ├── index.html
 ├── portfolio_arquivos/
@@ -15,13 +15,10 @@ portfolio/
 │ ├── jquery.min.js
 │ └── SourceSansPro-Regular.woff
 ├── img/
-│ ├── perfil.png
-│ └── foto do mapa.jpg
 └── README.md
-
+```
 bash
-Copiar
-Editar
+
 
 ## 🖼️ Capturas de tela
 
