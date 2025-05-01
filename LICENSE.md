@@ -38,4 +38,3 @@ If You have Sui Generis Database Rights that apply to Your use of the Licensed M
 a. **Supplemental License to the Database Rights.** You are licensed to use, share, and adapt the Licensed Material in accordance with the conditions of this Public License.  
 b. **Extraction, reuse, and provision of the database.** …
 
-*(Para o texto completo da licença, visite https://creativecommons.org/licenses/by/4.0/legalcode)*
