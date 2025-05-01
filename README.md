@@ -17,9 +17,6 @@ portfolio/
 ├── img/
 └── README.md
 ```
-bash
-
-
 ## 🖼️ Capturas de tela
 
 ![Home](img/perfil.png)  
