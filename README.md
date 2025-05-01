@@ -19,8 +19,8 @@ portfolio/
 ```
 ## 🖼️ Capturas de tela
 
-![Home](img/perfil.png)  
-![Seção de Projetos](img/screenshot-projetos.png)
+![Home](portifolio_arquivos/.github/screenshots/captura-1.png)  
+![Seção de Projetos](portifolio_arquivos/.github/screenshots/captura-2.png)
 
 ---
 
