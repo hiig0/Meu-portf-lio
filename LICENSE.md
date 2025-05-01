@@ -36,5 +36,5 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 If You have Sui Generis Database Rights that apply to Your use of the Licensed Material, then:
 
 a. **Supplemental License to the Database Rights.** You are licensed to use, share, and adapt the Licensed Material in accordance with the conditions of this Public License.  
-b. **Extraction, reuse, and provision of the database.** …
+b. **Extraction, reuse, and provision of the database.**
 
