@@ -22,21 +22,20 @@ portfolio/
 ![Home](img/perfil.png)  
 ![Seção de Projetos](img/screenshot-projetos.png)
 
-> *Substitua as imagens acima pelos seus próprios screenshots do site.*
+---
 
 ## 🚀 Como rodar
 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/portfolio.git
-Entre na pasta do projeto:
+2. Entre na pasta do projeto:
+ ```bash
+   cd portfolio
+ ```
+3. Abra o arquivo index.html no seu navegador favorito.
 
-bash
-Copiar
-Editar
-cd portfolio
-Abra o arquivo index.html no seu navegador favorito.
-
+---
 📝 Tecnologias
 HTML5
 
