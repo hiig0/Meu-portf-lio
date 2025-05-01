@@ -30,9 +30,9 @@ portfolio/
    ```bash
    git clone https://github.com/seu-usuario/portfolio.git
 2. Entre na pasta do projeto:
- ```bash
-   cd portfolio
- ```
+    ```bash
+      cd portfolio
+    ```
 3. Abra o arquivo index.html no seu navegador favorito.
 
 ---
